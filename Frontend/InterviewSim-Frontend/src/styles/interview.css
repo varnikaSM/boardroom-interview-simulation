@@ -1,0 +1,31 @@
+.interview-container {
+    text-align: center;
+    padding: 50px;
+    background-color: #e3f2fd;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    color: #222;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    color: #444;
+  }
+  
+  .next-question {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .next-question:hover {
+    background-color: #218838;
+  }
+  
